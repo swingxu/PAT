@@ -1,6 +1,6 @@
 # PAT
 Practice for PAT(ZJU)
-| 题型  | 题号 |  备注 |
-| | ------------- |  ------------- |
-| Content Cell  | Content Cell  |  Second Header |
-|  | Content Cell  |  Second Header |
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
