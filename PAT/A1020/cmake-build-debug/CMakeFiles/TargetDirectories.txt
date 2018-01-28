@@ -1,0 +1,3 @@
+/Users/thawne/CLionProjects/A1020/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/thawne/CLionProjects/A1020/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thawne/CLionProjects/A1020/cmake-build-debug/CMakeFiles/A1020.dir
