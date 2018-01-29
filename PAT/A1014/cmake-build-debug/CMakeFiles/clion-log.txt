@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/thawne/CLionProjects/A1014
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/thawne/CLionProjects/PAT/A1014
 -- The C compiler identification is AppleClang 9.0.0.9000039
 -- The CXX compiler identification is AppleClang 9.0.0.9000039
 -- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc
@@ -14,5 +14,17 @@
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    main.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: A1014
+CMake Error: Cannot determine link language for target "A1014".
 -- Generating done
--- Build files have been written to: /Users/thawne/CLionProjects/A1014/cmake-build-debug
+-- Build files have been written to: /Users/thawne/CLionProjects/PAT/A1014/cmake-build-debug
+Unable to determine product file path for target A1014. Running and debugging will be unavailable.
